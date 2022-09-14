@@ -1,2 +1,2 @@
 # code-analysis
-Microsoft Code Analysis binaries(Roslyn)
+Microsoft Code Analysis(Roslyn) minimal binaries
