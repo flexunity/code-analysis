@@ -12,5 +12,8 @@
   },
   "repository": {
     "url": "https://github.com/flexunity/code-analysis.git"
+  },
+  "dependencies": {
+    "com.unity.nuget.mono-cecil": "1.10.2"
   }
 }
